@@ -1,0 +1,14 @@
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\bin\Debug\net6.0\Variable with indexes.exe
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\bin\Debug\net6.0\Variable with indexes.deps.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\bin\Debug\net6.0\Variable with indexes.runtimeconfig.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\bin\Debug\net6.0\Variable with indexes.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\bin\Debug\net6.0\Variable with indexes.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\Variable with indexes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\Variable with indexes.AssemblyInfoInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\Variable with indexes.AssemblyInfo.cs
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\Variable with indexes.csproj.CoreCompileInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\Variable with indexes.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\refint\Variable with indexes.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\Variable with indexes.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\Variable with indexes.genruntimeconfig.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Array\obj\Debug\net6.0\ref\Variable with indexes.dll

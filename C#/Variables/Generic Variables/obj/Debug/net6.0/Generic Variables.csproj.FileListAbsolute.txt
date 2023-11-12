@@ -1,0 +1,14 @@
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\bin\Debug\net6.0\Generic Variables.exe
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\bin\Debug\net6.0\Generic Variables.deps.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\bin\Debug\net6.0\Generic Variables.runtimeconfig.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\bin\Debug\net6.0\Generic Variables.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\bin\Debug\net6.0\Generic Variables.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\Generic Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\Generic Variables.AssemblyInfoInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\Generic Variables.AssemblyInfo.cs
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\Generic Variables.csproj.CoreCompileInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\Generic Variables.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\refint\Generic Variables.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\Generic Variables.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\Generic Variables.genruntimeconfig.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Variables\Generic Variables\obj\Debug\net6.0\ref\Generic Variables.dll
