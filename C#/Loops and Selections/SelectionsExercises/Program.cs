@@ -55,9 +55,9 @@
  */
 
 //3.2 receive a int type value as input,
-// press 1 to check if is even or odd and print if is even or odd
+// press 1 to check if is even or odd and print if is even or odd and count the even and count the odds
 // press 2 to sum it to a int value called "sum"
-// press 3 to break the switch and print
+// press 3 to break the switch and print the results
 
 //answer
 /*
