@@ -1,0 +1,14 @@
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\bin\Debug\net6.0\Selections.exe
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\bin\Debug\net6.0\Selections.deps.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\bin\Debug\net6.0\Selections.runtimeconfig.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\bin\Debug\net6.0\Selections.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\bin\Debug\net6.0\Selections.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\Selections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\Selections.AssemblyInfoInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\Selections.AssemblyInfo.cs
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\Selections.csproj.CoreCompileInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\Selections.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\refint\Selections.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\Selections.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\Selections.genruntimeconfig.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Loops and Selections\Selections\obj\Debug\net6.0\ref\Selections.dll
