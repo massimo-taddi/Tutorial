@@ -1,0 +1,14 @@
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\Exercise Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\Exercise Example.AssemblyInfoInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\Exercise Example.AssemblyInfo.cs
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\Exercise Example.csproj.CoreCompileInputs.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\bin\Debug\net6.0\Exercise Example.exe
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\bin\Debug\net6.0\Exercise Example.deps.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\bin\Debug\net6.0\Exercise Example.runtimeconfig.json
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\bin\Debug\net6.0\Exercise Example.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\bin\Debug\net6.0\Exercise Example.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\Exercise Example.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\refint\Exercise Example.dll
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\Exercise Example.pdb
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\Exercise Example.genruntimeconfig.cache
+C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\obj\Debug\net6.0\ref\Exercise Example.dll

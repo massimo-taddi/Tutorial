@@ -1,0 +1,80 @@
+Design Patterns are a solution to recurring problems that happens during the development of a project
+we are mainly going to focus on 2 specified patterns in this tutorial
+-the first one is the Singleton that we are going to see later,
+-the second one is the design pattern DAO.
+
+DAO Stands for Data Acces Object, the main purpose of this design pattern is to separate
+the code from the business logic.
+
+the projects and exercise that ive shown before where all implemented inside the "Program" class
+but we want to add a layer of security between the Console and our BE.
+and by using the DAO patter we can put less code in the Program class adding a layer of protection
+between the console and our data.
+
+
+Before:
+
+________________________________________
+|		Program			|
+|					|
+|our data and	and every function	|
+|					|
+|					|
+|					|
+|					|
+|					|
+|_______________________________________|
+
+After:
+
+we receive a input from the program and we go to:
+ 
+________________________________________
+|					|
+|		IDAO			|
+|which is the interface with the	|
+|firm of methods that we are going to	|
+|implement				|
+|					|
+|					|
+|					|
+|_______________________________________|
+
+	
+________________________________________
+|					|
+|		DAO			|
+|it implements the methods of IDAO	|
+|					|
+|					|
+|					|
+|					|
+|					|
+|_______________________________________|
+
+
+
+________________________________________
+|					|
+|		Classes			|
+|					|
+|					|
+|					|
+|					|
+|					|
+|					|
+|_______________________________________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
