@@ -1,7 +1,7 @@
 ﻿//OBJECTS
 /*
  * what is a object? and why is so important in C#?:
- * a object is a complex variable, that stands at the center of the OOP Object Oriented Programming, is basiccaly a istance
+ * a object is a complex variable, that stands at the center of the OOP Object Oriented Programming, is basically a instance
  * of a class that allows you to implement evry focal point of the OOP which are:
  * -Encapsulation, it allows you to group the data you implement and methods under a single class, and hide the way you implement them,
  * and allows the use only to see the result of such actions;
@@ -23,8 +23,9 @@
 
 //we are specifying that we are using the nameSpace Objects
 using Objects;
-
+Console.WriteLine("please write a name");
 string name = Console.ReadLine();
+Console.WriteLine("please write your lastname");
 string lastName=Console.ReadLine();
 Person p =new Person(name,lastName);
 

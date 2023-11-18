@@ -11,7 +11,7 @@ namespace Exercise_Example
         
         Random r=new Random();
         //all the signatures get implemented in the classes that inherit his methods
-        public int ReadRandomValueFromArray1(int[]array1)
+        public  int ReadRandomValueFromArray1(int[]array1)
         {
             int randomValue=r.Next(0,array1.Length);
             return array1[randomValue];
