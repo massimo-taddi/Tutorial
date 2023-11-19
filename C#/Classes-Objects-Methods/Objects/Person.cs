@@ -28,7 +28,7 @@ namespace Objects
         //--What are the benefit of this method?
         //it add a level of protection because when we call the Object we recall the incapsulated attribute insted of the value we receive
         //as input. it allows us to add a layer of protection to the entire class, and allows us to hide sensitive data.
-        //Another Benefit is that keeps the Program very clean, we only need to only give the class his input and then 
+        //Another Benefit is that keeps the Program very clean, we only need to give the class his input and then 
         //we can call back his methods or just his variables without writing the methods on the program
 
 

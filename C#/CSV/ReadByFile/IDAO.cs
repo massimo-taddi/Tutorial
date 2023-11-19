@@ -8,7 +8,7 @@ namespace ReadByFile
 {
     internal interface IDAO
     {
-        public void ReadFromInfo(string[] info);
+        public void ReadFromArray(string[] info);
         public void AddValues();
         public string PrintObject();
     }
