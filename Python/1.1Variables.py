@@ -6,11 +6,11 @@ x1=1
 
 #as provided by the example 
 #the syntax for a variable in phyton
-#is not defined before we define de variable
-#but is defined by the type of input we put
+#is not defined before we define the variable
+#but is defined by the type of value we put
 #in the variable for example
 #if we want to know the nature of the variable
-#we can use the method type(weinsertherethevariable) we are going to see this later
+#we can use the method type(variable) we are going to see this later
 #and it will return which value is inside that variable
 
 

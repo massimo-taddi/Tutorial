@@ -7,7 +7,7 @@
 
 
 
-#Dati
+#Dati e oggetti 
 class Persona():
     def __init__(self,nome,cognome):
         self.nome=nome
@@ -41,7 +41,6 @@ logOut=False
 
 #FUNZIONI 
 
-#FUNZIONANO
 def corrispondenza(nomeUtente,passWord):
         for el in listaUtenti:
             if el.nomeUtente==nomeUtente and el.passWord==passWord:

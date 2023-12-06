@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\CSV\\ReadByFile\\ReadByFile.csproj": {}
+    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-5CSV\\ReadByFile\\ReadByFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\CSV\\ReadByFile\\ReadByFile.csproj": {
+    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-5CSV\\ReadByFile\\ReadByFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\CSV\\ReadByFile\\ReadByFile.csproj",
+        "projectUniqueName": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-5CSV\\ReadByFile\\ReadByFile.csproj",
         "projectName": "ReadByFile",
-        "projectPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\CSV\\ReadByFile\\ReadByFile.csproj",
+        "projectPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-5CSV\\ReadByFile\\ReadByFile.csproj",
         "packagesPath": "C:\\Users\\Drako\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\CSV\\ReadByFile\\obj\\",
+        "outputPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-5CSV\\ReadByFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Drako\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

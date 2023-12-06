@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JJ3blyQvJuzSXe5hv1kBPGdZ6R9V2omiIl5FTYqouHDKKbtyL8JUaQ3ISG8IPRKK8mt56UOgch0CryxaFEXbKQ==",
+  "dgSpecHash": "IIXsn6Jw2+389+eUoBYqjDhcljdluKJkk2suAauH+ShjE0doeauKOHYlhlvS3qU2F7tU8A9hwXz+6cT1ZEcuew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\CSV\\ReadByFile\\ReadByFile.csproj",
+  "projectFilePath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-5CSV\\ReadByFile\\ReadByFile.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
