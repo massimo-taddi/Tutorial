@@ -6,3 +6,5 @@ if age>= 18:
 
 else :
     print("you cant vote")
+
+#you write ELIF and treat it as a else if 
