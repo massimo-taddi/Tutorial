@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Classes-Objects-Methods\\Objects\\Objects.csproj",
+      "projectUniqueName": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-6Classes-Objects-Methods\\Objects\\Objects.csproj",
       "projectName": "Objects",
-      "projectPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Classes-Objects-Methods\\Objects\\Objects.csproj",
+      "projectPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-6Classes-Objects-Methods\\Objects\\Objects.csproj",
       "packagesPath": "C:\\Users\\Drako\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Classes-Objects-Methods\\Objects\\obj\\",
+      "outputPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-6Classes-Objects-Methods\\Objects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Drako\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

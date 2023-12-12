@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercise_Example
-build_property.ProjectDir = C:\Users\Drako\Documents\GitHub\Tutorial\C#\Design Pattern DAO\Exercise Example\
+build_property.ProjectDir = C:\Users\Drako\Documents\GitHub\Tutorial\C#\1-4Design Pattern DAO\Exercise Example\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,7 +13,6 @@
  * to inherit some if not every attribute of the "father" class;
  * -Reusage of the code, since we are creating object with a class we can reuse it inside our whole project,
  * allowing use to just recall the object in other parts of the program insted of re writing evrytime the code.
- * -
  */
 
 //how to create a class

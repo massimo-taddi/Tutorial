@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Design Pattern DAO\\Exercise Example\\Exercise Example.csproj": {}
+    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-4Design Pattern DAO\\Exercise Example\\Exercise Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Design Pattern DAO\\Exercise Example\\Exercise Example.csproj": {
+    "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-4Design Pattern DAO\\Exercise Example\\Exercise Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Design Pattern DAO\\Exercise Example\\Exercise Example.csproj",
+        "projectUniqueName": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-4Design Pattern DAO\\Exercise Example\\Exercise Example.csproj",
         "projectName": "Exercise Example",
-        "projectPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Design Pattern DAO\\Exercise Example\\Exercise Example.csproj",
+        "projectPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-4Design Pattern DAO\\Exercise Example\\Exercise Example.csproj",
         "packagesPath": "C:\\Users\\Drako\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\Design Pattern DAO\\Exercise Example\\obj\\",
+        "outputPath": "C:\\Users\\Drako\\Documents\\GitHub\\Tutorial\\C#\\1-4Design Pattern DAO\\Exercise Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Drako\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
