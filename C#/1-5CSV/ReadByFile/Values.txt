@@ -1,4 +1,4 @@
-﻿1;Polo;Red;37XBVD
-2;Aventador;Yellow;BFLS8903
-3;Luigi;Green;LFNEU2947
-4;Mario;Purple;KJFB394
+﻿1;Polo;Red;37XBVD;quattro sedili
+2;Aventador;Yellow;BFLS8903;3 sedili
+3;Luigi;Green;LFNEU2947;2 sedili
+4;Mario;Purple;KJFB394;1 sedile

@@ -14,13 +14,15 @@ namespace ReadByFile
         public string CarName {  get; set; }
         public string CarColor { get; set; }
         public string CarPlate {  get; set; }
+        public string Sedili {  get; set; }
 
-        public Car(int carId, string carName, string carColor, string carPlate)
+        public Car(int carId, string carName, string carColor, string carPlate, string sedili)
         {
             CarId = carId;
             CarName = carName;
             CarColor = carColor;
             CarPlate = carPlate;
+            Sedili = sedili;
         }
 
     }
